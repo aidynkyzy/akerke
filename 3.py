@@ -1,5 +1,5 @@
-length = float(input("What is the length of the room in m: "))
-width = float(input("What is the length of the room in m: "))
+l = float(input("What is the length of the room in m: "))
+w = float(input("What is the length of the room in m: "))
 
-result = length * width
+result = l * w
 print("{} sq.m".format(result))
