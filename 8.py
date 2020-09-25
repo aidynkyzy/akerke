@@ -1,5 +1,5 @@
-widgets  = int(input("Enter the number of widgets: "))
-gizmos  = int(input("Enter the number of gizmos: "))
+w  = int(input("Enter the number of widgets: "))
+g  = int(input("Enter the number of gizmos: "))
 
-total = (widgets * 75) + (gizmos * 112)
+total = (w * 75) + (g * 112)
 print("The total weight of the order is: {} grams".format(total))
