@@ -1,11 +1,11 @@
 score = float(input(": "))
 
-score_year = score*1.04
+score1 = score*1.04
 
-score_2year = score_year * 1.04
+score_2 = score1 * 1.04
 
-score_3year = score_2year * 1.04
+score_3 = score_2 * 1.04
 
-print("1 year {}".format(score_year))
-print("2 year {}".format(score_2year))
-print("3 year {}".format(score_3year))
+print("1 year {}".format(score1))
+print("2 year {}".format(score_2))
+print("3 year {}".format(score_3))
