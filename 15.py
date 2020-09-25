@@ -1,5 +1,5 @@
-feet =int(input())
-inches = feet*12
-yards = feet/3
-miles = feet/5280
-print(inches,yards,miles)
+f =int(input())
+i = f*12
+y = f/3
+miles = f/5280
+print(i,y,miles)
