@@ -1,4 +1,4 @@
-feet =int(input())
-inches =int(input())
-cm = feet*30.48 + inches*2.54
+f =int(input())
+i =int(input())
+cm = f*30.48 + i*2.54
 print (cm)
