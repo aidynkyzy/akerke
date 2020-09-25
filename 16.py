@@ -1,3 +1,3 @@
 from math import pi
-r = float(input ())
-print (str(r) + str(pi * r**2))
+s = float(input ())
+print (str(s) + str(pi * s**2))
