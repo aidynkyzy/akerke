@@ -1,3 +1,3 @@
-MPG = int(input())
-LPG = 235,215/MPG
-print(LPG)
+mpg = int(input())
+lpg = 235,215/mpg
+print(lpg)
