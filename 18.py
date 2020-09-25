@@ -1,8 +1,8 @@
 print("The radius:")
-radius = int(input())
+r = int(input())
 print("The height:")
-height = int(input())
-volume = 3.14 * radius * radius * height
+h = int(input())
+volume = 3.14 * r * r * height
 volume = round(volume, 1)
 ans = "The volume is {}"
 print(ans.format(volume))
