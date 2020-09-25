@@ -1,6 +1,6 @@
-n = int(input("Enter a positive integer: "))
+a = int(input("Enter a positive integer: "))
 
-total = n * (n+1) / 2
+total = a * (a+1) / 2
 
-print("The sum of the first {} positive integers {}".format(n, total))
+print("The sum of the first {} positive integers {}".format(a, total))
 
